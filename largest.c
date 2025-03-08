@@ -8,4 +8,10 @@ int main(){
 		printf("enter the third number");
 		scanf("%d",&num3);
 		if(num 1>= num 2 && num 1>= num 3){
-			printf("the largest  number is 
+			printf("the largest  number is%d\n"):
+		}
+		else if (num 2>= num 1> && num 2>=num 3){
+			printf("the largest number is %d\n:",num 3);
+		}
+		return 0;
+}
