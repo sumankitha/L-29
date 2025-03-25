@@ -14,4 +14,5 @@ min=*(ptr+i);
 }
 }
 printf("maximum element:%d\n",max);
-
+printf("minimum element:%d\n",min);
+return 0;
