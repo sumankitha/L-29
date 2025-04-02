@@ -11,3 +11,4 @@ return 0;}
 case:1
 printf("enter you age "):
 case:2
+printf("enter your name"):
